@@ -1,0 +1,5 @@
+Python 3.8+
+Libraries:
+pandas
+matplotlib
+seaborn

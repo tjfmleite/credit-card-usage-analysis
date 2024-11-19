@@ -1,0 +1,6 @@
+CustomerID,Age,Gender,AnnualIncome,SpendingScore,Transactions,CardType,Region
+1,34,Male,45000,70,120,Gold,North
+2,29,Female,54000,80,150,Platinum,East
+3,45,Female,62000,55,90,Gold,West
+4,36,Male,75000,40,60,Silver,South
+5,50,Male,80000,90,200,Platinum,North
